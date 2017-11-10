@@ -45,7 +45,7 @@ public class Polymorphism {
 		animal1.makeSound();
 		
 		// Method Overriding
-		System.out.println("\nMethod Overriding ");
+		System.out.println("\nMethod Overriding");
 		System.out.println("------------------");
 			
 		Animal dog1 = new Dog();  // Animal reference but Dog object
